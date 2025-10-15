@@ -1,16 +1,34 @@
-## Hi there 👋
+## 👋 Olá, eu sou o Hugo Januário!
 
-<!--
-**hugaojanuario/hugaojanuario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Java com foco em backend e APIs REST.  
+🎯 Apaixonado por tecnologia, aprendizado contínuo e boas práticas de código.  
+🚀 Buscando evoluir diariamente em **Java**, **Spring Boot**, **Docker** e **PostgreSQL**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Atualmente estudando:
+- Java 17+ e boas práticas de POO  
+- Spring Boot (Data JPA, Security, REST)  
+- Docker e ambientes de desenvolvimento isolados  
+- Integração com bancos de dados relacionais (PostgreSQL)  
+- Testes unitários com JUnit e Mockito  
+
+---
+
+### ⚙️ Tecnologias e Ferramentas
+<div style="display: inline_block"><br>
+  <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Spring" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+  <img align="center" alt="PostgreSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+  <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="IntelliJ" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
+</div>
+
+---
+
+### 📫 Como me encontrar:
+- 💼 [LinkedIn](#)  
+- ✉️ **hugojanuario553@gmail.com**
+
+---
