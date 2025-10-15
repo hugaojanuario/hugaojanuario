@@ -28,7 +28,7 @@
 ---
 
 ### 📫 Como me encontrar:
-- 💼 [LinkedIn](#)  
+- 💼 [LinkedIn](#https://www.linkedin.com/in/hugo-janu%C3%A1rio-679706244/)  
 - ✉️ **hugojanuario553@gmail.com**
 
 ---
