@@ -12,7 +12,7 @@
 - Docker e ambientes de desenvolvimento isolados  
 - Integração com bancos de dados relacionais (PostgreSQL)  
 - Testes unitários com JUnit e Mockito  
-
+#Aprendendo tudo com DevDojo e Fernanda Kipper :)
 ---
 
 ### ⚙️ Tecnologias e Ferramentas
