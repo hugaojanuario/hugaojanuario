@@ -1,18 +1,15 @@
 ## 👋 Olá, eu sou o Hugo Januário!
 
 💻 Desenvolvedor Java com foco em backend e APIs REST.  
-🎯 Apaixonado por tecnologia, aprendizado contínuo e boas práticas de código.  
 🚀 Buscando evoluir diariamente em **Java**, **Spring Boot**, **Docker** e **PostgreSQL**.
 
 ---
 
 ### 🧠 Atualmente estudando:
-- Java 17+ e boas práticas de POO  
 - Spring Boot (Data JPA, Security, REST)  
 - Docker e ambientes de desenvolvimento isolados  
 - Integração com bancos de dados relacionais (PostgreSQL)  
 - Testes unitários com JUnit e Mockito  
-#Aprendendo tudo com DevDojo e Fernanda Kipper :)
 ---
 
 ### ⚙️ Tecnologias e Ferramentas
