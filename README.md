@@ -1,23 +1,25 @@
 ## 👋 Olá, eu sou o Hugo Januário!
 
-💻 Desenvolvedor com foco em **Go** e **Java**, apaixonado por backend e APIs REST.  
-🚀 Buscando evoluir diariamente em **Go**, **Java**, **Docker** e **PostgreSQL**.
+💻 Desenvolvedor backend focado em **C#** e **.NET**, apaixonado por APIs REST e boas práticas de arquitetura de software.  
+🚀 Buscando evoluir diariamente em **C#**, **.NET**, **Docker** e **PostgreSQL**.
+
+🎯 **Objetivo:** Consolidar minha carreira como **desenvolvedor backend júnior**, construindo sistemas escaláveis, performáticos e seguros.
 
 ---
 
-### 🧠 Atualmente estudando:
-- Desenvolvimento backend com **Go (Golang)**  
-- Criação de APIs REST e integração com **PostgreSQL**  
+### 🧠 Atualmente estudando
+- Desenvolvimento backend com **C# e .NET**  
+- Criação de **APIs RESTful** e integração com **PostgreSQL**  
 - **Docker** para ambientes de desenvolvimento isolados  
 - Testes e automação de requisições com **Postman**  
-- Fundamentos e boas práticas em **cibersegurança**  
+- Fundamentos e boas práticas em **cibersegurança**
 
 ---
 
 ### ⚙️ Tecnologias e Ferramentas
 <div style="display: inline_block"><br>
-  <img align="center" alt="Go" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
-  <img align="center" alt="Java" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Csharp" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+  <img align="center" alt=".NET" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg">
   <img align="center" alt="PostgreSQL" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Docker" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
   <img align="center" alt="Postman" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg">
@@ -27,8 +29,11 @@
 
 ---
 
-### 📫 Como me encontrar:
-- 💼 LinkedIn: [Hugo Januário](https://www.linkedin.com/in/hugo-janu%C3%A1rio-679706244/)  
-- ✉️ **hugojanuario553@gmail.com**
+### 🧩 Um pouco sobre mim
+Sou curioso por natureza e gosto de entender **como as coisas funcionam por trás do código**.  
+Atualmente, venho aprimorando meus conhecimentos em **backend, segurança e boas práticas de desenvolvimento**.  
+Acredito que **a melhor forma de aprender é construir** — e é isso que busco fazer em cada projeto.
 
 ---
+
+#
