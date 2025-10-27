@@ -1,6 +1,6 @@
 ## 👋 Olá, eu sou o Hugo Januário!
 
-💻 Desenvolvedor backend com foco em **Java** e **Go (Golang)**, apaixonado por **APIs REST**, **boas práticas de código** e **arquiteturas escaláveis**.  
+💻 Desenvolvedor backend com foco em **Java** e **Go (Golang)**, **APIs REST**, **boas práticas de código** e **arquiteturas escaláveis**.  
 🚀 Buscando evoluir diariamente em **Java**, **Go**, **Docker** e **PostgreSQL**.
 
 ---
@@ -29,7 +29,7 @@
 ---
 
 ### 🧩 Um pouco sobre mim
-Sou apaixonado por **backend**, gosto de construir soluções performáticas e seguras.  
+Gosto de construir soluções performáticas e seguras.  
 Tenho como foco principal o **ecossistema Java**, explorando também **Go** como alternativa leve e eficiente para microsserviços.  
 Acredito que **a melhor forma de aprender é construindo** — e busco aplicar isso em todos os meus projetos.
 
@@ -39,6 +39,3 @@ Acredito que **a melhor forma de aprender é construindo** — e busco aplicar i
 - 💼 [LinkedIn – Hugo Januário](https://www.linkedin.com/in/hugo-janu%C3%A1rio-679706244/)  
 - ✉️ **hugojanuario553@gmail.com**
 
----
-
-⭐ *"Evoluir um pouco todo dia é o que me move."*
