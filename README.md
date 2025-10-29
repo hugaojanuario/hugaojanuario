@@ -28,13 +28,6 @@
 
 ---
 
-### 🧩 Um pouco sobre mim
-Gosto de construir soluções performáticas e seguras.  
-Tenho como foco principal o **ecossistema Java**, explorando também **Go** como alternativa leve e eficiente para microsserviços.  
-Acredito que **a melhor forma de aprender é construindo** — e busco aplicar isso em todos os meus projetos.
-
----
-
 ### 📫 Como me encontrar
 - 💼 [LinkedIn – Hugo Januário](https://www.linkedin.com/in/hugo-janu%C3%A1rio-679706244/)  
 - ✉️ **hugojanuario553@gmail.com**
