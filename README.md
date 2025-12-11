@@ -11,7 +11,6 @@ Sempre buscando evoluir em backend, arquitetura e segurança 💻🔥
 ✔️ Docker para desenvolvimento
 ✔️ PostgreSQL + JPA/Hibernate
 ✔️ Testes e automação de APIs
-✔️ Segurança da informação para backend
 
 📫 Fala comigo
 
