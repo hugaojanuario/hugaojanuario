@@ -1,7 +1,7 @@
 👋 Fala aí, eu sou o Hugo Januário
 
-Sou Desenvolvedor Backend, apaixonado por construir APIs bem estruturadas, seguras e escaláveis.
-Atuo principalmente com Java + Spring Boot e venho expandindo meu stack para Node.js + TypeScript, sempre focado em boas práticas, arquitetura e qualidade de código 💻🔥
+Sou Desenvolvedor Backend, focado em construir APIs bem estruturadas, seguras e escaláveis.
+Trabalho principalmente com Java + Spring Boot e também com Node.js + TypeScript, sempre buscando boas práticas, arquitetura limpa e evolução contínua 💻🔥
 
 ---
 
@@ -10,8 +10,9 @@ Atuo principalmente com Java + Spring Boot e venho expandindo meu stack para Nod
 <div style="display: inline_block"><br>
   <img align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
-  <img align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+  <img align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"/>
   <img align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+  <img align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
 </div>
 
 ---
@@ -21,11 +22,12 @@ Atuo principalmente com Java + Spring Boot e venho expandindo meu stack para Nod
 - Desenvolvimento de APIs REST
 - Java com Spring Boot
 - Node.js com TypeScript
-- Integração com banco de dados PostgreSQL
-- JPA / Hibernate
 - Estruturação de projetos backend
+- Integração com PostgreSQL
+- JPA / Hibernate
+- Docker para padronização de ambiente de desenvolvimento
+- Testes e validações de APIs
 - Boas práticas, Clean Code e organização de camadas
-- Testes de APIs
 
 ---
 
@@ -34,13 +36,13 @@ Atuo principalmente com Java + Spring Boot e venho expandindo meu stack para Nod
 ✔️ Spring Boot avançado  
 ✔️ Node.js + TypeScript para backend  
 ✔️ Arquitetura de APIs REST  
-✔️ Boas práticas e padrões de projeto  
+✔️ Docker aplicado ao desenvolvimento backend  
 
 ---
 
 ## 🎯 Objetivo
 
-Atuar como Desenvolvedor Backend, contribuindo em projetos robustos e bem arquitetados, com foco em qualidade, organização e evolução contínua.
+Atuar como Desenvolvedor Backend, contribuindo em projetos robustos e bem arquitetados, com foco em qualidade de código, organização e segurança.
 
 ---
 
