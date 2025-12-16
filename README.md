@@ -1,19 +1,50 @@
 👋 Fala aí, eu sou o Hugo Januário
 
-Sou desenvolvedor backend apaixonado por construir APIs bem estruturadas utilizando Java + Spring Boot.
-Sempre buscando evoluir em backend, arquitetura e segurança 💻🔥
+Sou Desenvolvedor Backend, apaixonado por construir APIs bem estruturadas, seguras e escaláveis.
+Atuo principalmente com Java + Spring Boot e venho expandindo meu stack para Node.js + TypeScript, sempre focado em boas práticas, arquitetura e qualidade de código 💻🔥
 
-🚀 Tech Stack
-<div style="display: inline_block"><br> <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/> <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/> <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/insomnia/insomnia-original.svg"/> <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"/> <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/> </div>
-📘 O que estou aprendendo agora
+---
 
-✔️ Spring Boot avançado
-✔️ Docker para desenvolvimento
-✔️ PostgreSQL + JPA/Hibernate
-✔️ Testes e automação de APIs
+## 🚀 Tech Stack (Backend)
 
-📫 Fala comigo
+<div style="display: inline_block"><br>
+  <img align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
+  <img align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+  <img align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+</div>
 
-LinkedIn: Hugo Januário](https://www.linkedin.com/in/hugo-janu%C3%A1rio-679706244/)
+---
 
-Email: devhugojanuario@gmail.com
+## 🧠 Conhecimentos em Backend
+
+- Desenvolvimento de APIs REST
+- Java com Spring Boot
+- Node.js com TypeScript
+- Integração com banco de dados PostgreSQL
+- JPA / Hibernate
+- Estruturação de projetos backend
+- Boas práticas, Clean Code e organização de camadas
+- Testes de APIs
+
+---
+
+## 📘 O que estou estudando atualmente
+
+✔️ Spring Boot avançado  
+✔️ Node.js + TypeScript para backend  
+✔️ Arquitetura de APIs REST  
+✔️ Boas práticas e padrões de projeto  
+
+---
+
+## 🎯 Objetivo
+
+Atuar como Desenvolvedor Backend, contribuindo em projetos robustos e bem arquitetados, com foco em qualidade, organização e evolução contínua.
+
+---
+
+## 📫 Fala comigo
+
+🔗 LinkedIn: https://www.linkedin.com/in/hugo-janu%C3%A1rio-679706244/  
+📧 Email: devhugojanuario@gmail.com
