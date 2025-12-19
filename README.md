@@ -1,17 +1,16 @@
-👋 Fala aí, eu sou o Hugo Januário
+👋 Fala aí, eu sou o **Hugo Januário**
 
-Sou Desenvolvedor Backend, focado em construir APIs bem estruturadas, seguras e escaláveis.
-Trabalho principalmente com Java + Spring Boot e também com Node.js + TypeScript, sempre buscando boas práticas, arquitetura limpa e evolução contínua 💻🔥
+Sou **Desenvolvedor Backend**, com foco principal em **Golang**, construindo **APIs performáticas, bem estruturadas, seguras e escaláveis**.  
+Também possuo experiência sólida com **Java + Spring Boot**, sempre aplicando **boas práticas, arquitetura limpa e evolução contínua** 💻🔥
 
 ---
 
 ## 🚀 Tech Stack (Backend)
 
 <div style="display: inline_block"><br>
+  <img align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"/>
   <img align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
-  <img align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"/>
-  <img align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
   <img align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
 </div>
 
@@ -20,9 +19,9 @@ Trabalho principalmente com Java + Spring Boot e também com Node.js + TypeScrip
 ## 🧠 Conhecimentos em Backend
 
 - Desenvolvimento de APIs REST
+- Golang para backend (APIs, serviços e microsserviços)
 - Java com Spring Boot
-- Node.js com TypeScript
-- Estruturação de projetos backend
+- Estruturação e organização de projetos backend
 - Integração com PostgreSQL
 - JPA / Hibernate
 - Docker para padronização de ambiente de desenvolvimento
@@ -33,20 +32,20 @@ Trabalho principalmente com Java + Spring Boot e também com Node.js + TypeScrip
 
 ## 📘 O que estou estudando atualmente
 
-✔️ Spring Boot avançado  
-✔️ Node.js + TypeScript para backend  
+✔️ Golang avançado aplicado ao backend  
 ✔️ Arquitetura de APIs REST  
+✔️ Boas práticas e padrões em Go  
 ✔️ Docker aplicado ao desenvolvimento backend  
 
 ---
 
 ## 🎯 Objetivo
 
-Atuar como Desenvolvedor Backend, contribuindo em projetos robustos e bem arquitetados, com foco em qualidade de código, organização e segurança.
+Atuar como **Desenvolvedor Backend com foco em Golang**, contribuindo em projetos **robustos, performáticos e bem arquitetados**, com atenção à **qualidade de código, organização e segurança**.
 
 ---
 
 ## 📫 Fala comigo
 
 🔗 LinkedIn: https://www.linkedin.com/in/hugo-janu%C3%A1rio-679706244/  
-📧 Email: devhugojanuario@gmail.com
+📧 Email: devhugojanuario@gmail.com  
