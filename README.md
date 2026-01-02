@@ -33,18 +33,10 @@ Tenho experiência prática com **Java + Spring Boot**, aplicando **boas prátic
 
 ---
 
-## 📘 O que estou estudando atualmente
-
-✔️ Golang avançado aplicado ao backend  
-✔️ Arquitetura de APIs REST  
-✔️ Boas práticas e padrões em Go  
-✔️ Docker aplicado ao desenvolvimento backend  
-
----
 
 ## 🎯 Objetivo
 
-Atuar como **Desenvolvedor Backend com foco em Golang**, contribuindo em projetos **robustos, performáticos e bem arquitetados**, com atenção à **qualidade de código, organização e segurança**.
+Atuar como **Desenvolvedor Backend com foco em Java**, contribuindo em projetos **robustos, performáticos e bem arquitetados**, com atenção à **qualidade de código, organização e segurança**.
 
 ---
 
