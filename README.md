@@ -1,32 +1,35 @@
 👋 Fala aí, eu sou o **Hugo Januário**
 
-Sou **Desenvolvedor Backend**, com foco principal em **Golang**, construindo **APIs performáticas, bem estruturadas, seguras e escaláveis**.  
-Também possuo experiência sólida com **Java + Spring Boot**, sempre aplicando **boas práticas, arquitetura limpa e evolução contínua** 💻🔥
+Sou **Desenvolvedor Backend Java**, com foco na construção de **APIs robustas, bem estruturadas, seguras e escaláveis**, utilizando o ecossistema **Spring** como base principal.  
+Tenho experiência prática com **Java + Spring Boot**, aplicando **boas práticas de arquitetura, Clean Code e desenvolvimento orientado ao domínio**, sempre pensando em código que evolui bem em ambiente real de produção. 💻🔥
 
 ---
 
-## 🚀 Tech Stack (Backend)
+## 🚀 Tech Stack (Backend Java)
 
 <div style="display: inline_block"><br>
-  <img align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"/>
   <img align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
   <img align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+  <img align="center" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
 </div>
 
 ---
 
-## 🧠 Conhecimentos em Backend
+## 🧠 Conhecimentos em Backend Java
 
-- Desenvolvimento de APIs REST
-- Golang para backend (APIs, serviços e microsserviços)
-- Java com Spring Boot
-- Estruturação e organização de projetos backend
-- Integração com PostgreSQL
-- JPA / Hibernate
-- Docker para padronização de ambiente de desenvolvimento
-- Testes e validações de APIs
-- Boas práticas, Clean Code e organização de camadas
+- Desenvolvimento de **APIs REST** com Java
+- **Spring Boot** para criação de aplicações backend
+- **Spring Data JPA / Hibernate**
+- Integração com **PostgreSQL**
+- Modelagem de domínio e entidades
+- Validações com **Bean Validation**
+- Tratamento de erros e respostas HTTP adequadas
+- Estruturação de projetos backend em camadas
+- **Docker** para padronização de ambiente
+- Boas práticas, **Clean Code** e organização de código
+- Noções de arquitetura e aplicações prontas para produção
+
 
 ---
 
