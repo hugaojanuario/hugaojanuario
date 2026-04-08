@@ -1,16 +1,15 @@
-Desenvolvedor Back-end com foco em **Java e Golang**, atuando na construção de **APIs e serviços**, utilizando **Docker**, **PostgreSQL** e ambientes **Linux**.
+## Hugo Januário
 
-Interesse em **arquitetura de software**, **código limpo** e **soluções escaláveis**.
+> Back-end Developer · Go
 
----
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
-</p>
+Back-end developer with a focus on **Go**, interested in **back-end engineering**, **infrastructure**, **cloud**, and **distributed systems**.
 
 ---
 
-📫 **Contato:**  devhugojanuario@gmail.com
+**Tech stack**
+
+`Go` `Gin` `gRPC` `Docker` `Kubernetes` `PostgreSQL` `Redis` `Kafka` `Linux`
+
+---
+
+📫 devhugojanuario@gmail.com
