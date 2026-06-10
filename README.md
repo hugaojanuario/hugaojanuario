@@ -2,8 +2,7 @@ DevOps Engineer · Go & Java · Open Source Contributor @ IBM
 
 3+ years in tech. I work with CI/CD pipelines, Docker, Kubernetes, Terraform, and Ansible — and I write production Go and Java when needed.
 
-- **Siplan** — DevOps & Infra & implementation analyst
-- 📫 devhugojanuario@gmail.com
+devhugojanuario@gmail.com
 
 ---
 
