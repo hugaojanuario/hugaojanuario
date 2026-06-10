@@ -4,7 +4,7 @@ DevOps Engineer · Go & Java · Open Source Contributor @ IBM
 
 3+ years in tech. I work with CI/CD pipelines, Docker, Kubernetes, Terraform, and Ansible — and I write production Go and Java when needed.
 
-- 🏢 **Siplan Control-M** — DevOps & Backend Development
+- 🏢 **Siplan** — DevOps & Infra & implementation analyst
 - 🤝 Contributor at **IBM** — [event-notifications-go-admin-sdk](https://github.com/IBM/event-notifications-go-admin-sdk)
 - 📫 devhugojanuario@gmail.com
 
