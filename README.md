@@ -1,4 +1,4 @@
-DevOps Engineer · Go & Java 
+DevOps Engineer · Golang
 
 3+ years in tech. I work with CI/CD pipelines, Docker, Kubernetes, Terraform, and Ansible — and I write production Go and Java when needed.
 
