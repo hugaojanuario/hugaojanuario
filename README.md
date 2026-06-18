@@ -1,6 +1,6 @@
-DevOps Engineer · Golang
+Backend Engineer · Golang
 
-3+ years in tech. I work with CI/CD pipelines, Docker, Kubernetes, Terraform, and Ansible — and I write production Go and Java when needed.
+3+ years in tech. I work with CI/CD pipelines, Docker, Kubernetes, Infraestructure, Network — and I write production Go and Java when needed.
 
 devhugojanuario@gmail.com
 
