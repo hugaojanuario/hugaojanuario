@@ -1,4 +1,4 @@
-Backend Engineer · Golang
+Software Engineer · Golang
 
 3+ years in tech. I work with CI/CD pipelines, Docker, Kubernetes, Infraestructure, Network — and I write production Go and Java when needed.
 
