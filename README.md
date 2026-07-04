@@ -1,6 +1,6 @@
-Software Engineer · Golang
+Devops Engineer · Golang
 
-3+ years in tech. I work with CI/CD pipelines, Docker, Kubernetes, Infraestructure, Network — and I write production Go and Java when needed.
+3+ years of experience working with infrastructure, scalable architectures, Docker, SQL & NoSQL, K8s, Terraform, Ansible, Linux, network protocols, and Golang.
 
 devhugojanuario@gmail.com
 
