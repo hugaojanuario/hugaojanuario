@@ -1,4 +1,4 @@
-Devops Engineer · Golang
+Data Engineer
 
 3+ years of experience working with infrastructure, scalable architectures, Docker, SQL & NoSQL, K8s, Terraform, Ansible, Linux, network protocols, and Golang.
 
