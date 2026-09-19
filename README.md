@@ -1,7 +1,3 @@
-# Hugo Januário
-
-**`Data Engineer`**
-
 Data Engineer with 4+ years of experience designing and maintaining ETL/ELT pipelines and scalable data infrastructure. Skilled in integrating heterogeneous relational databases (SQL Server, Firebird, PostgreSQL, MySQL) and processing large datasets with Python and Apache Spark. Experienced with containerized and cloud-native environments using Docker, Kubernetes, Terraform, Ansible, and AWS, with a solid background in Linux systems administration and network protocols. Also comfortable building backend tooling and automation in Go.
 
 ---
