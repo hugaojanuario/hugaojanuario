@@ -1,5 +1,3 @@
-# Hi, I'm Hugo 👋
-
 Software Engineer building backend services and web applications with **Java**, **Spring Boot**, **Angular** and **PHP/Symfony**, running on **AWS** and **Docker**.
 
 Before moving into software engineering, I spent 4+ years as a **Data Engineer**, designing and maintaining ETL/ELT pipelines and scalable data infrastructure — integrating heterogeneous relational databases (SQL Server, Firebird, PostgreSQL, MySQL) and processing large datasets with Python and Apache Spark. That background gave me a solid foundation in cloud-native environments (Kubernetes, Terraform, Ansible), Linux systems administration and network protocols. I also enjoy building backend tooling and automation in Go.
